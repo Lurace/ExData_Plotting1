@@ -1,5 +1,3 @@
-setwd("C:/Users/Luis/OneDrive/Data Science John Hopkins")
-
 if (!file.exists("data")) {
   dir.create("data")
 }
